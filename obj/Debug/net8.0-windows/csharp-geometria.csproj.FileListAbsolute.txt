@@ -1,0 +1,14 @@
+D:\UCATEC\Lenguajes_Programacion\lenguajes-programacion\csharp-geometria\bin\Debug\net8.0-windows\csharp-geometria.exe
+D:\UCATEC\Lenguajes_Programacion\lenguajes-programacion\csharp-geometria\bin\Debug\net8.0-windows\csharp-geometria.deps.json
+D:\UCATEC\Lenguajes_Programacion\lenguajes-programacion\csharp-geometria\bin\Debug\net8.0-windows\csharp-geometria.runtimeconfig.json
+D:\UCATEC\Lenguajes_Programacion\lenguajes-programacion\csharp-geometria\bin\Debug\net8.0-windows\csharp-geometria.dll
+D:\UCATEC\Lenguajes_Programacion\lenguajes-programacion\csharp-geometria\bin\Debug\net8.0-windows\csharp-geometria.pdb
+D:\UCATEC\Lenguajes_Programacion\lenguajes-programacion\csharp-geometria\obj\Debug\net8.0-windows\csharp-geometria.GeneratedMSBuildEditorConfig.editorconfig
+D:\UCATEC\Lenguajes_Programacion\lenguajes-programacion\csharp-geometria\obj\Debug\net8.0-windows\csharp-geometria.AssemblyInfoInputs.cache
+D:\UCATEC\Lenguajes_Programacion\lenguajes-programacion\csharp-geometria\obj\Debug\net8.0-windows\csharp-geometria.AssemblyInfo.cs
+D:\UCATEC\Lenguajes_Programacion\lenguajes-programacion\csharp-geometria\obj\Debug\net8.0-windows\csharp-geometria.csproj.CoreCompileInputs.cache
+D:\UCATEC\Lenguajes_Programacion\lenguajes-programacion\csharp-geometria\obj\Debug\net8.0-windows\csharp-geometria.dll
+D:\UCATEC\Lenguajes_Programacion\lenguajes-programacion\csharp-geometria\obj\Debug\net8.0-windows\refint\csharp-geometria.dll
+D:\UCATEC\Lenguajes_Programacion\lenguajes-programacion\csharp-geometria\obj\Debug\net8.0-windows\csharp-geometria.pdb
+D:\UCATEC\Lenguajes_Programacion\lenguajes-programacion\csharp-geometria\obj\Debug\net8.0-windows\csharp-geometria.genruntimeconfig.cache
+D:\UCATEC\Lenguajes_Programacion\lenguajes-programacion\csharp-geometria\obj\Debug\net8.0-windows\ref\csharp-geometria.dll
